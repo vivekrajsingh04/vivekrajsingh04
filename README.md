@@ -1,80 +1,34 @@
 <h1 align="center">Hi 👋, I'm Vivek Raj Singh</h1>
-<h3 align="center">🚀 AI/ML Explorer | 📊 Quant Finance Aspirant | 💻 DSA Practitioner</h3>
+<h3 align="center">AI/ML Engineer | Quantitative Finance Enthusiast | DSA Practitioner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%7C+Machine+Learning+%7C+Quant+Finance;Rust+Learner+%7C+Systems+Thinking;Data+Driven+Problem+Solver&center=true&width=500&height=45">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrajsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrajsingh04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekrajsingh04" alt="vivekrajsingh04" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Pest Invasion Prediction using Deep Learning**
+
+- 🌱 I’m currently learning **Advanced Machine Learning,Time Series Forecasting,Quantitative Finance,Rust Systems Programming**
+
+- 👯 I’m looking to collaborate on **Exploring Rust & Open Source Contributions**
+
+- 📫 How to reach me **mailto:rajvivek22102004@gmail.com,LinkedIn: https://www.linkedin.com/in/vivek-raj-singh-47a6a9368/**
+
+- 📄 Know about my experiences [https://github.com/vivekrajsingh04/resume](https://github.com/vivekrajsingh04/resume)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vivek-raj-singh-47a6a9368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-raj-singh-47a6a9368/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/laplacex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="laplacex" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/laplacex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laplacex" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📌 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekrajsingh04&show_icons=true&locale=en&layout=compact" alt="vivekrajsingh04" /></p>
 
-🔍 Passionate about **AI, Machine Learning, and Quantitative Finance**  
-📊 Building data-driven solutions using Python & ML  
-💻 Strong foundation in **Data Structures & Algorithms (C++)**  
-🦀 Currently exploring **Rust & Systems Architecture**  
-📈 Long-term goal: Master quantitative finance & financial engineering  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&locale=en" alt="vivekrajsingh04" /></p>
 
----
-
-## 🔧 Tech Stack & Tools
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
-
----
-
-### 📊 ML & Data Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat&logo=scikitlearn)
-
----
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📌 Crop Price Forecasting (ML Project)
-📊 Predicting agricultural prices using time-series models  
-🔗 *Coming soon*
-
-### 📌 DSA Practice Repository
-🧠 Arrays | Two Pointers | Sliding Window | Graphs  
-🔗 *Your repo link*
-
-### 📌 AI/ML Experiments
-📈 Feature engineering + model building  
-🔗 *Your repo link*
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINK)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](YOUR_LINK)
-
----
-
-⭐ *Always learning. Always building.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrajsingh04&" alt="vivekrajsingh04" /></p>
