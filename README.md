@@ -20,8 +20,8 @@ Currently focused on financial modeling, time series forecasting, and high-perfo
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrajsingh04&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=C9D1D9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrajsingh04&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
