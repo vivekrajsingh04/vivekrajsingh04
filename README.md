@@ -1,34 +1,111 @@
-<h1 align="center">Hi 👋, I'm Vivek Raj Singh</h1>
-<h3 align="center">AI/ML Engineer | Quantitative Finance Enthusiast | DSA Practitioner</h3>
+<h1 align="center" style="color:#FFD700;">VIVEK RAJ SINGH</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrajsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrajsingh04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekrajsingh04" alt="vivekrajsingh04" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Pest Invasion Prediction using Deep Learning**
-
-- 🌱 I’m currently learning **Advanced Machine Learning,Time Series Forecasting,Quantitative Finance,Rust Systems Programming**
-
-- 👯 I’m looking to collaborate on **Exploring Rust & Open Source Contributions**
-
-- 📫 How to reach me **mailto:rajvivek22102004@gmail.com,LinkedIn: https://www.linkedin.com/in/vivek-raj-singh-47a6a9368/**
-
-- 📄 Know about my experiences [https://github.com/vivekrajsingh04/resume](https://github.com/vivekrajsingh04/resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivek-raj-singh-47a6a9368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-raj-singh-47a6a9368/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/laplacex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="laplacex" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/laplacex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laplacex" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FFD700&center=true&vCenter=true&width=1000&lines=Quantitative+Finance+Engineer;AI/ML+Systems+Builder;Algorithmic+Trading+Research;Rust+High+Performance+Systems;Future+Quant+Developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="900"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekrajsingh04&show_icons=true&locale=en&layout=compact" alt="vivekrajsingh04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&locale=en" alt="vivekrajsingh04" /></p>
+# 🏛 Executive Profile
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrajsingh04&" alt="vivekrajsingh04" /></p>
+AI/ML Engineer transitioning into **Quantitative Finance & Algorithmic Trading**  
+Strong foundation in:
+
+- Probability & Statistics  
+- Data Structures & Algorithms  
+- Time Series Modeling  
+- High Performance Systems (Rust)  
+- Financial Forecasting  
+
+Focused on building intelligent systems that generate **alpha through data**.
+
+---
+
+# 📊 Institutional Performance Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrajsingh04&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vivekrajsingh04&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Market Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekrajsingh04&theme=github-dark&hide_border=true&area=true&color=FFD700&line=FFD700&point=FFFFFF"/>
+</p>
+
+---
+
+# 🐍 Capital Flow Simulation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vivekrajsingh04/vivekrajsingh04/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🏆 Performance Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekrajsingh04&theme=darkhub&no-frame=true&column=7"/>
+</p>
+
+---
+
+# 🛠 Core Technology Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,react,nodejs,mysql,aws,tensorflow,pytorch,opencv,git,linux" />
+</p>
+
+---
+
+# 💹 Quant Research Focus
+
+- Financial Time Series Forecasting  
+- Volatility & Risk Modeling  
+- Statistical Learning  
+- Algorithmic Trading Systems  
+- High Performance Backend Systems  
+
+---
+
+# 📊 Development Analytics (Optional: Enable WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Professional Links
+
+<p align="center">
+<a href="https://linkedin.com/in/vivek-raj-singh-47a6a9368/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://codeforces.com/profile/laplacex">
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-bold-tal-revivo.png"/>
+</a>
+<a href="https://leetcode.com/laplacex">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
+</p>
+
+> "Risk comes from not knowing what you're doing." — Warren Buffett
