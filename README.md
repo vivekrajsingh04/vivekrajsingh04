@@ -1,58 +1,34 @@
-<h1 align="center">Vivek Raj Singh</h1>
+# Vivek Raj Singh
 
-<p align="center">
-  Quantitative Finance • AI/ML • Systems Engineering
-</p>
+Machine Learning Engineer | Quantitative Modeling | Systems Engineering
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=8B949E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Future+Quant+Developer;Rust+Systems+Learner;Building+Data+Driven+Systems" />
-</p>
+I build production-grade ML and quantitative systems with a focus on statistical rigor, reproducibility, and performance.  
+My work spans forecasting pipelines, model evaluation, and systems-level implementation in Rust and Python.
 
----
+## Current Focus
 
-### About
+- Financial time-series forecasting and risk-aware modeling
+- Applied machine learning for decision systems
+- High-performance backend and runtime engineering in Rust
+- Reliable MLOps workflows for experimentation and deployment
 
-AI/ML engineer with a strong foundation in algorithms, probability, and systems programming.  
-Currently focused on financial modeling, time series forecasting, and high-performance systems.
+## Technical Strengths
 
----
+- **Languages:** Python, Rust, C++, SQL, JavaScript  
+- **ML/Stats:** PyTorch, TensorFlow, classical statistical modeling  
+- **Systems:** Linux, Git, performance/debugging workflows  
+- **Infra:** AWS, backend service integration
 
-### GitHub Analytics
+## Selected Work
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivekrajsingh04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivekrajsingh04&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+- **Modeling Pipeline:** End-to-end forecasting workflow with feature engineering, backtesting, and evaluation  
+- **Systems Implementation:** Rust-based components for low-latency and memory-safe execution  
+- **Open-Source Contributions:** Active contributions to AI-agent/runtime repositories
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekrajsingh04&theme=github-dark&hide_border=true"/>
-</p>
+## Open Source
 
-### Tech Stack
+I contribute to projects in agent systems, runtime architecture, and ML tooling.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,react,nodejs,mysql,aws,tensorflow,pytorch,git,linux" />
-</p>
+## Contact
 
----
-
-### Competitive Programming
-
-- Codeforces: https://codeforces.com/profile/LaplaceX  
-- LeetCode: https://leetcode.com/LaplaceX  
-
----
-
-### Focus Areas
-
-- Financial Time Series Forecasting  
-- Statistical Modeling  
-- Deep Learning  
-- Rust Systems Programming  
-- Algorithmic Trading Research  
-
----
-
-<p align="center">
-  <sub>building systems with precision and intent</sub>
-</p>
+- GitHub: https://github.com/vivekrajsingh04
