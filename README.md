@@ -2,8 +2,7 @@
 
 Machine Learning Engineer | Quantitative Modeling | Systems Engineering
 
-I build production-grade ML and quantitative systems with a focus on statistical rigor, reproducibility, and performance.  
-My work spans forecasting pipelines, model evaluation, and systems-level implementation in Rust and Python.
+I build production-grade ML and quantitative systems with a focus on statistical rigor, reproducibility, and performance.
 
 ## Current Focus
 
@@ -14,20 +13,19 @@ My work spans forecasting pipelines, model evaluation, and systems-level impleme
 
 ## Technical Strengths
 
-- **Languages:** Python, Rust, C++, SQL, JavaScript  
-- **ML/Stats:** PyTorch, TensorFlow, classical statistical modeling  
-- **Systems:** Linux, Git, performance/debugging workflows  
+- **Languages:** Python, Rust, C++, SQL, JavaScript
+- **ML/Stats:** PyTorch, TensorFlow, statistical modeling
+- **Systems:** Linux, Git, concurrency/performance debugging
 - **Infra:** AWS, backend service integration
 
-## Selected Work
+## Open-Source Work
 
-- **Modeling Pipeline:** End-to-end forecasting workflow with feature engineering, backtesting, and evaluation  
-- **Systems Implementation:** Rust-based components for low-latency and memory-safe execution  
-- **Open-Source Contributions:** Active contributions to AI-agent/runtime repositories
-
-## Open Source
-
-I contribute to projects in agent systems, runtime architecture, and ML tooling.
+- **MoFA Runtime (Merged):** fixed lock-across-await contention in message bus paths and added regression tests  
+  https://github.com/mofa-org/mofa/pull/224
+- **MoFA Runtime (In Review):** periodic execution API for `AgentRunner` (Task 16, phase 1)  
+  https://github.com/mofa-org/mofa/pull/260
+- **MoFA Studio (In Review):** Task 15 phase 1 runtime backend abstraction + practical example + tests  
+  https://github.com/mofa-org/mofa-studio/pull/39
 
 ## Contact
 
