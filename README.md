@@ -60,17 +60,29 @@ Live at the intersection of quantitative finance and systems engineering. I writ
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekrajsingh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekrajsingh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/vivekrajsingh04?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Followers)](https://github.com/vivekrajsingh04)
+[![GitHub stars](https://img.shields.io/github/stars/vivekrajsingh04?style=for-the-badge&color=FFD700&labelColor=0d1117&label=Stars)](https://github.com/vivekrajsingh04)
+[![PRs](https://img.shields.io/badge/Open%20Source%20PRs-4-brightgreen?style=for-the-badge&labelColor=0d1117)](https://github.com/mofa-org/mofa/pulls?q=vivekrajsingh04)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekrajsingh04&theme=tokyonight&hide_border=true"/>
+
+### 🏆 Contributions
+
+| Repo | Contribution | Status |
+|------|-------------|--------|
+| [mofa-org/mofa](https://github.com/mofa-org/mofa) | Priority-aware inference orchestration (#806) | ✅ Merged |
+| [mofa-org/mofa](https://github.com/mofa-org/mofa) | OpenAI-compatible API gateway (#812) | 🔄 Review |
+| [mofa-org/mofa](https://github.com/mofa-org/mofa) | Voice pipeline ASR→LLM→TTS (#714) | ✅ Merged |
+| [mofa-org/mofa](https://github.com/mofa-org/mofa) | Cloud TTS/ASR multi-vendor adapter (#711) | ✅ Merged |
+
 </div>
+
 
 ---
 
