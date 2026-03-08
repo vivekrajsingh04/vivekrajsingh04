@@ -33,6 +33,7 @@ I live at the intersection of **quantitative finance** and **systems engineering
 
 | PR                                                  | Title                                                                        | Impact                                                             | Status  |
 | --------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------- |
+| [#1035](https://github.com/mofa-org/mofa/pull/1035) | `fix(agent)`: `ChainAgent` timeout enforcement using `tokio::time::timeout`    | 🔴 **Critical** — Prevents agent workflows from hanging indefinitely| ✅ Filed |
 | [#871](https://github.com/mofa-org/mofa/pull/871)   | fix(scheduler): Preemption ghost task leak — state cleanup across 4 HashMaps | 🔴 **Critical** — Prevents OOM + scheduling starvation              | 🔄 Open  |
 | [#869](https://github.com/mofa-org/mofa/issues/869) | bug(scheduler): Preempted tasks become ghost entries                         | Identified `agent_load` drift, HashMap leak, broken load balancing | ✅ Filed |
 
@@ -83,7 +84,7 @@ I live at the intersection of **quantitative finance** and **systems engineering
 
 [![GitHub followers](https://img.shields.io/github/followers/vivekrajsingh04?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Followers)](https://github.com/vivekrajsingh04)
 [![GitHub stars](https://img.shields.io/github/stars/vivekrajsingh04?style=for-the-badge&color=FFD700&labelColor=0d1117&label=Stars)](https://github.com/vivekrajsingh04)
-[![PRs](https://img.shields.io/badge/Open%20Source%20PRs-5+-brightgreen?style=for-the-badge&labelColor=0d1117)](https://github.com/mofa-org/mofa/pulls?q=vivekrajsingh04)
+[![PRs](https://img.shields.io/badge/Open%20Source%20PRs-6+-brightgreen?style=for-the-badge&labelColor=0d1117)](https://github.com/mofa-org/mofa/pulls?q=vivekrajsingh04)
 
 </div>
 
@@ -92,7 +93,7 @@ I live at the intersection of **quantitative finance** and **systems engineering
 | Metric               | Count    |
 | -------------------- | -------- |
 | 🔀 PRs Merged         | 3        |
-| 🐛 Bugs Found & Fixed | 2        |
+| 🐛 Bugs Found & Fixed | 3        |
 | 🔍 PRs Reviewed       | Active   |
 | 🏛️ Org Collaborator   | mofa-org |
 
