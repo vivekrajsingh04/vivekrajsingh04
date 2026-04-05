@@ -30,7 +30,7 @@ I live at the intersection of **quantitative finance** and **systems engineering
 
 | Project | Domain | Description |
 | :--- | :---: | :--- |
-| 🧮 **[Heston-SV-Engine](https://github.com/vivekrajsingh04/Heston-Model-Scilab)** | `Quantitative Finance` | Complex European option pricer implemented in Scilab. Features a **dual-validation architecture** computing prices via Monte Carlo (with Antithetic Variates) and analytical numerical Fourier inversion. Automatically extracts implied volatility smiles and 3D pricing surfaces to showcase stochastic variance dynamics. Built for the FOSSEE Summer Fellowship. |
+| 🧮 **[Heston-SV-Engine](https://github.com/vivekrajsingh04/heston-sv-engine)** | `Quantitative Finance` | High-fidelity Heston Stochastic Volatility Model implementation in Scilab. Features a **dual-validation architecture** computing prices via Monte Carlo (with Antithetic Variates) and analytical numerical Fourier inversion. Automatically extracts implied volatility smiles and 3D pricing surfaces to showcase stochastic variance dynamics. |
 | 🦀 **[MoFA Framework Contributions](https://github.com/mofa-org/mofa)** | `AI Systems / Rust` | Open-source contributions securing async state management, preventing memory degradation panics, and implementing lock-free request handlers using safe, zero-cost abstractions in Rust. |
 
 </div>
