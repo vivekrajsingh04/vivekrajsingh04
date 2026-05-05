@@ -6,8 +6,8 @@ I build deterministic numerical engines primarily using C++, Python, and Scilab,
 
 ## Selected Work
 
-**[Variance-Gamma-Engine](https://github.com/vivekrajsingh04/variance-gamma-engine)**
-Implemented the Variance Gamma option pricing model (Madan, Carr, Chang). This engine models asset returns as Brownian motion evaluated at a random time given by a gamma process, effectively capturing fat tails and skewness in financial returns. The implementation is validated against European option market prices.
+**[ROCm-Forge](https://github.com/vivekrajsingh04/rocm-forge)**
+An autonomous multi-agent AI copilot designed to natively translate legacy NVIDIA CUDA code to AMD ROCm. Features hardware-aware static analysis, AST-level Python code transformation, and deterministic API mapping to significantly reduce migration effort for high-performance computing workloads.
 
 **[Heston-SV-Engine](https://github.com/vivekrajsingh04/heston-sv-engine)**
 A high-fidelity implementation of the Heston Stochastic Volatility Model. It features a dual-validation architecture that computes prices via Monte Carlo simulations (utilizing Antithetic Variates for variance reduction) and analytical numerical Fourier inversion. The system automatically extracts implied volatility smiles and 3D pricing surfaces.
